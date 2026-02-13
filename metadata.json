@@ -1,0 +1,9 @@
+
+{
+  "name": "Enterprise Intelligence Platform (EIP)",
+  "description": "A production-grade, deterministic intelligence system for executive-level oversight, anomaly detection, and decision synchronization with email-first alerting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
